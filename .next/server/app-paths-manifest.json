@@ -1,7 +1,0 @@
-{
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(root)/(home)/page": "app/(root)/(home)/page.js",
-  "/(root)/catalogue/page": "app/(root)/catalogue/page.js",
-  "/(root)/catalogue/[category]/page": "app/(root)/catalogue/[category]/page.js",
-  "/(root)/corsica/page": "app/(root)/corsica/page.js"
-}
