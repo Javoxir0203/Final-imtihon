@@ -1,11 +1,11 @@
 import Image from "next/image";
-import Photo from "@/public/images/Photo.svg";
-import Photo1 from "@/public/images/Photo1.svg";
-import Photo2 from "@/public/images/Photo2.svg";
-import Photo3 from "@/public/images/Photo3.svg";
-import Photo4 from "@/public/images/Photo4.svg";
-import Photo5 from "@/public/images/Photo5.svg";
-import Photo77 from "@/public/images/Photo77.svg";
+import Photo from "@/public/images/photo.svg";
+import Photo1 from "@/public/images/photo1.svg";
+import Photo2 from "@/public/images/photo2.svg";
+import Photo3 from "@/public/images/photo3.svg";
+import Photo4 from "@/public/images/photo4.svg";
+import Photo5 from "@/public/images/photo5.svg";
+import Photo77 from "@/public/images/photo77.svg";
 
 import { Button } from "../ui/button";
 

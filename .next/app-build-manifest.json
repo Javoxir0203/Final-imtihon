@@ -1,0 +1,93 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/app/_not-found-90de25f748530161.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/css/5657de475b6610ef.css",
+      "static/chunks/app/layout-ea590bf9c68b1b8a.js"
+    ],
+    "/(root)/layout": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/931-da81b86cbb4a35af.js",
+      "static/chunks/250-11b81e4eec4316d5.js",
+      "static/chunks/415-4c4b2e33a5ed4382.js",
+      "static/chunks/261-f9aa118e269bd0f1.js",
+      "static/chunks/app/(root)/layout-4e490a5226996a04.js"
+    ],
+    "/(root)/(home)/page": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/519-265f4ee57c036017.js",
+      "static/chunks/931-da81b86cbb4a35af.js",
+      "static/chunks/22-20cd2b036c586cff.js",
+      "static/chunks/261-f9aa118e269bd0f1.js",
+      "static/chunks/150-e5383b23e9dac893.js",
+      "static/chunks/app/(root)/(home)/page-b02572771adfbe0d.js"
+    ],
+    "/(root)/catalogue/[category]/[id]/page": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/519-265f4ee57c036017.js",
+      "static/chunks/261-f9aa118e269bd0f1.js",
+      "static/chunks/150-e5383b23e9dac893.js",
+      "static/chunks/app/(root)/catalogue/[category]/[id]/page-3e0cd8f11f75a34c.js"
+    ],
+    "/(root)/catalogue/[category]/page": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/519-265f4ee57c036017.js",
+      "static/chunks/931-da81b86cbb4a35af.js",
+      "static/chunks/250-11b81e4eec4316d5.js",
+      "static/chunks/22-20cd2b036c586cff.js",
+      "static/chunks/261-f9aa118e269bd0f1.js",
+      "static/chunks/150-e5383b23e9dac893.js",
+      "static/chunks/221-aa922a061e51889e.js",
+      "static/chunks/app/(root)/catalogue/[category]/page-f75762b15ece77fd.js"
+    ],
+    "/(root)/catalogue/page": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/519-265f4ee57c036017.js",
+      "static/chunks/931-da81b86cbb4a35af.js",
+      "static/chunks/250-11b81e4eec4316d5.js",
+      "static/chunks/22-20cd2b036c586cff.js",
+      "static/chunks/261-f9aa118e269bd0f1.js",
+      "static/chunks/150-e5383b23e9dac893.js",
+      "static/chunks/221-aa922a061e51889e.js",
+      "static/chunks/app/(root)/catalogue/page-a0816444b6d6078d.js"
+    ],
+    "/(root)/corsica/page": [
+      "static/chunks/webpack-fe9c5ed4e91d8711.js",
+      "static/chunks/fd9d1056-9a51623ec13f539b.js",
+      "static/chunks/69-779a4b4cbe797c58.js",
+      "static/chunks/main-app-349248e16067cc31.js",
+      "static/chunks/988-22058206baa3cc3e.js",
+      "static/chunks/app/(root)/corsica/page-f2003266e7ad17ed.js"
+    ]
+  }
+}

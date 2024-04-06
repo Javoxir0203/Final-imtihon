@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/catalogue/[category]/[id]/page": "app/(root)/catalogue/[category]/[id]/page.js",
+  "/(root)/catalogue/[category]/page": "app/(root)/catalogue/[category]/page.js",
+  "/(root)/catalogue/page": "app/(root)/catalogue/page.js",
+  "/(root)/corsica/page": "app/(root)/corsica/page.js"
+}
