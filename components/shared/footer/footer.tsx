@@ -29,7 +29,7 @@ const Footer = () => {
 	];
 
 	return (
-		<div className='bg-[#088269] py-11 text-white'>
+		<div className='bg-[#088269] py-12 text-white'>
 			<div className='container mx-auto'>
 				<div className='flex items-start justify-between gap-10 mb-5'>
 					<div className=''>
